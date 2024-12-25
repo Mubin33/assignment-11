@@ -1,0 +1,179 @@
+[
+    {
+        "id": 1,
+        "author_name": "John Doe",
+        "author_img": "/image/r1.jpg",
+        "review": "Amazing product! It works exactly as described and has made my life easier.",
+        "rating": 5,
+        "product_image": "/image/m1.jpg"
+
+    },
+    {
+        "id": 2,
+        "author_name": "Jane Smith",
+        "author_img": "/image/r2.jpg",
+        "review": "Good quality and fast shipping. Customer service was helpful with my questions.",
+        "rating": 4,
+        "product_image": "/image/m2.jpg"
+
+    },
+    {
+        "id": 3,
+        "author_name": "Emily Johnson",
+        "author_img": "/image/r3.jpg",
+        "review": "Satisfactory purchase. It gets the job done but could be improved.",
+        "rating": 3,
+        "product_image": "/image/m3.jpg"
+    },
+    {
+        "id": 4,
+        "author_name": "Michael Brown",
+        "author_img": "/image/r4.jpg",
+        "review": "The product didn't meet my expectations and was damaged upon arrival.",
+        "rating": 2,
+        "product_image": "/image/m4.jpg"
+
+    },
+    {
+        "id": 5,
+        "author_name": "Sarah Davis",
+        "author_img": "/image/r5.jpg",
+        "review": "Worst purchase ever. It broke within a week. Don’t waste your money.",
+        "rating": 1,
+        "product_image": "/image/m5.jpg"
+    },
+    {
+        "id": 6,
+        "author_name": "Chris Wilson",
+        "author_img": "/image/r6.jpg",
+        "review": "Exceptional product with fast delivery. Highly recommend!",
+        "rating": 5,
+        "product_image": "/image/m6.jpg"
+
+    },
+    {
+        "id": 7,
+        "author_name": "Jessica Lee",
+        "author_img": "/image/r7.jpg",
+        "review": "Good value for the price. Would buy again.",
+        "rating": 4,
+        "product_image": "/image/m7.jpg"
+
+    },
+    {
+        "id": 8,
+        "author_name": "David Clark",
+        "author_img": "/image/r8.jpg",
+        "review": "Decent quality but not as durable as expected.",
+        "rating": 3,
+        "product_image": "/image/m8.jpg"
+
+    },
+    {
+        "id": 9,
+        "author_name": "Megan Lopez",
+        "author_img": "/image/r9.jpg",
+        "review": "Arrived late and the product quality was poor. Disappointed.",
+        "rating": 2,
+        "product_image": "/image/m9.jpg"
+
+    },
+    {
+        "id": 10,
+        "author_name": "Peter Harris",
+        "author_img": "/image/r10.jpg",
+        "review": "Absolutely terrible. I want a refund.",
+        "rating": 1,
+        "product_image": "/image/m1.jpg"
+
+    },
+    {
+        "id": 11,
+        "author_name": "Laura Martinez",
+        "author_img": "/image/r11.jpg",
+        "review": "Very happy with this purchase. The product is fantastic!",
+        "rating": 5,
+        "product_image": "/image/m2.jpg"
+
+    },
+    {
+        "id": 12,
+        "author_name": "Tom Walker",
+        "author_img": "/image/r12.jpg",
+        "review": "It’s a decent product but the shipping took longer than expected.",
+        "rating": 3,
+        "product_image": "/image/m3.jpg"
+    },
+    {
+        "id": 13,
+        "author_name": "Kathy Wilson",
+        "author_img": "/image/r13.jpg",
+        "review": "Love it! Exceeded my expectations.",
+        "rating": 5,
+        "product_image": "/image/m1.jpg"
+
+    },
+    {
+        "id": 14,
+        "author_name": "James Scott",
+        "author_img": "/image/r14.png",
+        "review": "Good for the price, but could use some improvements.",
+        "rating": 3,
+        "product_image": "/image/m2.jpg"
+
+    },
+    {
+        "id": 15,
+        "author_name": "Sophia Turner",
+        "author_img": "/image/r1.jpg",
+        "review": "Very poor quality and not as described.",
+        "rating": 1,
+        "product_image": "/image/m3.jpg"
+
+    },
+    {
+        "id": 16,
+        "author_name": "Daniel King",
+        "author_img": "/image/r2.jpg",
+        "review": "Fantastic product! Highly recommend it to everyone.",
+        "rating": 5,
+        "product_image": "/image/m4.jpg"
+
+    },
+    {
+        "id": 17,
+        "author_name": "Olivia Green",
+        "author_img": "/image/r3.jpg",
+        "review": "Good product but the customer support could be better.",
+        "rating": 4,
+        "product_image": "/image/m5.jpg"
+
+    },
+    {
+        "id": 18,
+        "author_name": "Henry Baker",
+        "author_img": "/image/r4.jpg",
+        "review": "Average product. Works fine but nothing special.",
+        "rating": 3,
+        "product_image": "/image/m6.jpg"
+
+    },
+    {
+        "id": 19,
+        "author_name": "Ella Carter",
+        "author_img": "/image/r5.jpg",
+        "review": "Not worth the price. Low quality and disappointing service.",
+        "rating": 2,
+        "product_image": "/image/m7.jpg"
+
+    },
+    {
+        "id": 20,
+        "author_name": "Lucas Robinson",
+        "author_img": "/image/r6.jpg",
+        "review": "Terrible experience. Would not recommend to anyone.",
+        "rating": 1,
+        "product_image": "/image/m8.jpg"
+
+    }
+]
